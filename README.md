@@ -9,6 +9,8 @@ Pkg install git
 
 Pkg install python && pkg install python2
 
+pip2 install mechanize
+
 git clone https://github.com/c0deX-tech/BruteForce.git
 
 
