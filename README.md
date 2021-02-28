@@ -1,17 +1,17 @@
 # BruteForce Facebook Account
 
 
-Pkg update && pkg upgrade
+• Pkg update && pkg upgrade
 
-apt update && apt upgrade
+• apt update && apt upgrade
 
-Pkg install git
+• Pkg install git
 
-Pkg install python && pkg install python2
+• Pkg install python && pkg install python2
 
-pip2 install mechanize
+• pip2 install mechanize
 
-git clone https://github.com/c0deX-tech/BruteForce.git
+• git clone https://github.com/c0deX-tech/BruteForce.git
 
 
          HAVE FUN TO USING THIS TOOL 😄
