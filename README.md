@@ -11,7 +11,5 @@
 
 • pip2 install mechanize
 
-• git clone https://github.com/c0deX-tech/BruteForce.git
-
 
          HAVE FUN TO USING THIS TOOL 😄
