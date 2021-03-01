@@ -1,3 +1,3 @@
-• SCRIPT: FaceBoom
+● SCRIPT: FaceBoom
 
-• Brute Force Attack On Facebook Accounts
+● Brute Force Attack On Facebook Accounts
